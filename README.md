@@ -3,8 +3,8 @@
 
  <div>
    <a href="https://github.com/jvpazn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvpazn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpazn&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvpazn&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpazn&layout=compact&langs_count=6&theme=great-gatsby"/>
 </div>
 
 ## Linguagens que planejo conhecer ou já conheco :
@@ -16,9 +16,6 @@
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jvpazn&color=blue)
-
 
 <!--
 **jvpazn/jvpazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
