@@ -1,5 +1,8 @@
-## Olá a todos! Meu nome é João Paz e Sou um estudante de desenvolvimento de sistemas! 
-## Sejam bem vindos ao meu perfil!
+## 🇧🇷 Olá a todos! Meu nome é João Paz e Sou um estudante de desenvolvimento de sistemas! 
+## 🇺🇸 Hello Everyone! My name is João Paz and i am a systems development student!
+## 🇧🇷 Sejam bem vindos ao meu perfil!!
+## 🇺🇸 Welcome to my profile!!
+
 
  <div>
    <a href="https://github.com/jvpazn">
