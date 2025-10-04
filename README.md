@@ -1,7 +1,8 @@
 ## 🇧🇷 Olá a todos! Meu nome é João Paz e Sou um estudante de desenvolvimento de sistemas! 
+🇧🇷 Sejam bem vindos ao meu perfil!!
+
 ## 🇺🇸 Hello Everyone! My name is João Paz and i am a systems development student!
-## 🇧🇷 Sejam bem vindos ao meu perfil!!
-## 🇺🇸 Welcome to my profile!!
+🇺🇸 Welcome to my profile!!
 
 
  <div>
