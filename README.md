@@ -1,23 +1,21 @@
-## 🇧🇷 Olá a todos! Meu nome é João Paz e Sou um estudante de desenvolvimento de sistemas! 
-🇧🇷 Sejam bem vindos ao meu perfil!!
+<div align="center">
 
-## 🇺🇸 Hello Everyone! My name is João Paz and i am a systems development student!
-🇺🇸 Welcome to my profile!!
-
-
- <div>
-   <a href="https://github.com/jvpazn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvpazn&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpazn&layout=compact&langs_count=6&theme=aura"/>
+## 👾 João Paz | Dev Iniciante 👾
+🇧🇷 Estudante de Desenvolvimento de Sistemas | 🇺🇸 Systems Development Student  
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvpazn&show_icons=true&theme=aura&border_color=6A0DAD&ring_color=FF69B4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpazn&layout=compact&langs_count=6&theme=aura&border_color=6A0DAD&ring_color=FF69B4"/>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+</div>
+
 
 <!--
 **jvpazn/jvpazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
