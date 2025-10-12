@@ -16,10 +16,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 </div>
 
-
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/471.png" alt="Glaceon" width="240px" height="Auto" style="vertical-align:middle;">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=jvpazn&theme=aura&row=1&column=7"/>
 </div>
 
 <!--
