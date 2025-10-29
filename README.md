@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👾 João Paz | Dev Iniciante 👾
+## 👾 João Paz :3 | Dev Iniciante 👾
 🇧🇷 Estudante de Desenvolvimento de Sistemas | 🇺🇸 Systems Development Student  
 </div>
 
