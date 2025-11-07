@@ -5,9 +5,10 @@
 </div>
 
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvpazn&show_icons=true&theme=aura&border_color=6A0DAD&ring_color=FF69B4"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpazn&theme=aura&border_color=6A0DAD&hide_title=true&layout=compact&card_width=320"/>
+</p>
 
 <br>
 
