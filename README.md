@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👾 João Paz :3 | Dev Iniciante 👾
+## 👾 João Paz | Dev Iniciante 👾
 🇧🇷 Estudante de Desenvolvimento de Sistemas | 🇺🇸 Systems Development Student  
 </div>
 
@@ -14,11 +14,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jvpazn&theme=aura&row=1&column=7"/>
 </div>
 
 <!--
