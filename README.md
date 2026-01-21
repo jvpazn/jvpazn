@@ -20,10 +20,10 @@
 
 ### 🚀 Sobre Mim
 
-Sou um estudante de **Desenvolvimento de Sistemas no IFPE** (2024-2026) e atualmente atuo como **Estagiário na Caixa Econômica Federal** (2025-2026). Meu foco principal é o desenvolvimento **Backend**, onde gosto de explorar como as coisas funcionam "por trás dos panos".
+Sou um estudante de **Desenvolvimento de Sistemas no IFPE** (2024-2026) e **Estagiário na Caixa Econômica Federal** (2025-2026). Meu foco principal é o desenvolvimento **Backend**, onde gosto de explorar como as coisas funcionam "por trás dos panos".
 
 * 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas (IFPE)
-* 💼 **Experiência:** Estagiário de TI na Caixa Federal
+* 💼 **Experiência:** Estagiário na Caixa Federal
 * 🌍 **Idiomas:** Português (Nativo), Inglês (Fluente)
 
 ---
