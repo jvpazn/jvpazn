@@ -1,8 +1,7 @@
 <div align="center">
 
   ## 👾 João Victor da Paz 👾
-  ### Desenvolvedor Backend Júnior | Entusiasta de Tecnologia
-  
+### Estudante de Desenvolvimento de Sistemas | Desenvolvedor Backend | Entusiasta de tecnologias
   <p>
     🇧🇷 Pernambuco, Brasil • 🇺🇸 Inglês Fluente nível B2
   </p>
