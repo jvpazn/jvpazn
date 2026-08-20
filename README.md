@@ -2,6 +2,7 @@
 
   ## 👾 João Victor da Paz 👾
   ### Desenvolvedor Backend Júnior | Entusiasta de Tecnologia
+  Atualmente bastante ocupado e sem foco em programação!!
   
   <p>
     🇧🇷 Pernambuco, Brasil • 🇺🇸 Inglês Fluente
