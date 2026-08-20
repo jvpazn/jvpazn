@@ -23,7 +23,7 @@ Sou um estudante de **Desenvolvimento de Sistemas no IFPE** (2024-2026) e **Esta
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,nodejs,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,nodejs,html,css,React-native&theme=dark" />
 </div>
 
 ---
